@@ -1,2 +1,2 @@
 # jdp-resolusi
-Repository untuk project jdp 
+Repository project jdp 
